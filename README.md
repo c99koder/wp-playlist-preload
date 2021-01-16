@@ -4,7 +4,7 @@ WordPress plugin that replaces the playlist shortcode to add `preload=metadata` 
 
 # Configuration and Usage
 
-* Copy `wp-playlist-preload.php` into `wp-content/plugins/month-in-review`
+* Copy `wp-playlist-preload.php` into `wp-content/plugins/wp-playlist-preload`
 
 * Activate the plugin in WordPress
 
